@@ -1,12 +1,11 @@
 /** @format */
+import Profile from "./Avatar";
 
-import Gallery from "./Gallery";
+export default function App() {
+  return <Profile />;
+}
 
-// export default function App() {
-//   return <Gallery />;
-// }
-
-export default function TodoList() {
+export function TodoList() {
   return (
     <>
       <h1>Hedy Lamarr's Todos</h1>
