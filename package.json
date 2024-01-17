@@ -1,15 +1,12 @@
 {
   "name": "react-study",
   "version": "1.0.0",
-  "description": "nomadcoder clone coding",
+  "description": "react study",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "eslint": "^8.50.0",
-    "eslint-config-react-app": "^7.0.1"
-  }
+  "dependencies": {}
 }
